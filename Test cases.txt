@@ -1,4 +1,4 @@
-## Test Cases for testing the program
+## Sample Test Case for testing the program
 
 **Graph 1**
 
@@ -33,5 +33,4 @@ Number of elements present in the list : 3
 Elements present in the list : 1 2 3
 
 
-**Graph 2**
 
